@@ -6,7 +6,8 @@
 void ExchangeRows(int [,] arr, int r1,int r2)
 {
     int temp;
-    for (int j=0;j<arr.GetLength(1);j++)
+    int len = arr.GetLength(1);
+    for (int j=0;j<len;j++)
     {
         temp = arr[r1,j];
         arr[r1,j] = arr[r2,j];

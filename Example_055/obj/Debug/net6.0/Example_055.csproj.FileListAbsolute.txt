@@ -1,0 +1,15 @@
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.csproj.AssemblyReference.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.AssemblyInfoInputs.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.AssemblyInfo.cs
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.csproj.CoreCompileInputs.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\bin\Debug\net6.0\Example_055.exe
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\bin\Debug\net6.0\Example_055.deps.json
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\bin\Debug\net6.0\Example_055.runtimeconfig.json
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\bin\Debug\net6.0\Example_055.dll
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\bin\Debug\net6.0\Example_055.pdb
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.dll
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\refint\Example_055.dll
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.pdb
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\Example_055.genruntimeconfig.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\08_practice\Example_055\obj\Debug\net6.0\ref\Example_055.dll
