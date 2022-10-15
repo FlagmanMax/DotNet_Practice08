@@ -1,37 +1,6 @@
 ﻿// Задача 56: Задайте прямоугольный двумерный массив. Напишите
 // программу, которая будет находить строку с наименьшей суммой элементов.
 
-void SortRows(int [,] arr)
-{
-    int tmp = 0;
-    int m = arr.GetLength(0);
-    int n = arr.GetLength(1);
-    int max = 0;
-    int max_j = 0;
-
-    for (int i=0;i<m;i++)
-    {
-        for (int index1 = 0; index1 < n-1; index1++)
-        {
-            max = arr[i,index1];
-            max_j = index1;
-
-            for (int index2 = index1+1; index2 < n; index2++)
-            {
-                if (arr[i,index2]>max)
-                {
-                    max = arr[i, index2];
-                    max_j = index2;
-                }
-            }
-            
-            tmp=arr[i, index1];
-            arr[i, index1] = arr[i, max_j];
-            arr[i, max_j] = tmp;
-        }
-    }
-}
-
 void FillMatrix(int[,] arr)
 {
     Random random = new Random();
@@ -54,14 +23,6 @@ void PrintMatrix(int[,] arr)
             Console.Write(arr[i,j]+"\t");
         }
         Console.WriteLine();
-    }
-}
-
-void PrintArray(int[] arr)
-{
-    for (int i=0;i<arr.Length;i++)
-    {
-        Console.Write(arr[i]+"\t");
     }
 }
 
